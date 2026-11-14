@@ -1,7 +1,7 @@
 # Universal Carrier — Conformance
 
-PHPUnit test cases checking a [Universal Carrier](../README.md) driver against the
-[specification](../docs/specification.md). A driver that passes them honours every rule of
+PHPUnit test cases checking a [Universal Carrier](https://github.com/Universal-Carrier/core) driver against the
+[specification](https://github.com/Universal-Carrier/core/blob/master/docs/specification.md). A driver that passes them honours every rule of
 the specification that can be observed from outside.
 
 ```bash
